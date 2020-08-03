@@ -1,11 +1,11 @@
 #!/bin/bash
 
 ##Database Details
-dbhost='mysql1.blazingfast.io';
-dbuser='devorly12';
-dbpass='Floreindopasno';
-dbname='devorly';
-dbport='3306';
+dbhost='144.91.103.33';
+dbuser='dailybux_kylegwapse';
+dbpass='Regina143$';
+dbname='dailybux_cutevpn';
+dbport='2083';
 
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 
